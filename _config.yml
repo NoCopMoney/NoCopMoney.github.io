@@ -9,16 +9,6 @@ description: Fight against police violence.
 # Your name to show in the footer
 author: Tray Bridgewater
 
-# --- List of links in the navigation bar --- #
-
-navbar-links:
-
-# --- Logo --- #
-
-# Image to show in the navigation bar - works best with a square image
-# Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
-
 # --- Footer options --- #
 
 # Select the social network links that you want to show in the footer.
