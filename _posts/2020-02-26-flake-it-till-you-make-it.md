@@ -13,4 +13,5 @@ Contributions from police unions give them power over elected officials, and thi
 
 All information below can be found on the [master spreadsheet.](https://docs.google.com/spreadsheets/d/1n62LkuxhkhLRrmdSMixKzL5Rxz7GDGVpWQxgLsx1jdc/edit#gid=0)
 
-### Test
+## How much has each member of City Council taken?
+![Donation tracker](https://i.imgur.com/jjPZcxe.png)
